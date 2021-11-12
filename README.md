@@ -1,6 +1,6 @@
 
 # FIBONACCI 💻✨
-O projeto de lógica</br>
+Projeto de lógica</br>
 Link do projeto em: [Link Jogo](https://isaasc.github.io/fibonacci/)
 
 ## 🛠 Tecnologias
