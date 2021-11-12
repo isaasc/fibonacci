@@ -1,7 +1,9 @@
 
 # FIBONACCI 💻✨
-Projeto de lógica</br>
-Link do projeto em: [Link Jogo](https://isaasc.github.io/fibonacci/)
+[Link](https://isaasc.github.io/fibonacci/) do projeto
+
+## Objetivo
+Treino de Lógica
 
 ## 🛠 Tecnologias
 Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
