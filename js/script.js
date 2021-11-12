@@ -23,6 +23,6 @@ function fibonacci() {
         numbers.push(numero)
         }
     }
-    alert(numbers);
+    alert(`${numbers}...`);
 }
 
