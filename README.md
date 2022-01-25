@@ -1,5 +1,5 @@
 
-# FIBONACCI ✨
+# FIBONACCI 💻🧮
 [Link](https://isaasc.github.io/fibonacci/) do projeto
 
 ## Objetivo
