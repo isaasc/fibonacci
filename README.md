@@ -1,8 +1,8 @@
 
 # FIBONACCI 💻🧮
 A sequência de Fibonacci é uma sequência numérica em que cada número seguinte é a soma dos dois anteriores, iniciando por 0. Assim: 
-0– 1 – 1 – 2 – 3 – 5 – 8 – 13 – 21 – 34 – 55 – 89 – 144 – E assim por diante…
-[Link](https://isaasc.github.io/fibonacci/) do projeto
+<br>0– 1 – 1 – 2 – 3 – 5 – 8 – 13 – 21 – 34 – 55 – 89 – 144 – E assim por diante…
+<br>[Link](https://isaasc.github.io/fibonacci/) do projeto
 
 ## Objetivo
 Projeto desenvolvido para treino de Lógica
