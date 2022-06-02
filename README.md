@@ -5,7 +5,7 @@ A sequência de Fibonacci é uma sequência numérica em que cada número seguin
 <br>[Link](https://isaasc.github.io/fibonacci/) do projeto
 
 ## Objetivo
-Projeto desenvolvido para treino de Lógica
+Projeto desenvolvido para Treino de Lógica.
 
 ## 🛠 Tecnologias
 Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
